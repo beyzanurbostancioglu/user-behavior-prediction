@@ -1,4 +1,4 @@
-# tahmin.py dosyasına bu kodu yapıştırın
+
 import pandas as pd
 import joblib
 
